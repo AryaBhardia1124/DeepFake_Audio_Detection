@@ -53,7 +53,7 @@ This project uses the **Audio Deepfake Detection Dataset (Kaggle)**.
 
 Performance was evaluated across individual synthetic sources.
 
-![Accuracy by Source](Figures/accuracy_by_score.png)
+![Accuracy by Source](Figures/accuracy_by_source.png)
 
 ---
 
