@@ -53,16 +53,15 @@ This project uses the **Audio Deepfake Detection Dataset (Kaggle)**.
 
 Performance was evaluated across individual synthetic sources.
 
-![Accuracy by Source](accuracy_by_source.png)
-
-This helps reveal whether the model performs consistently or relies on generator-specific patterns.
+![Accuracy by Source](Figures/accuracy_by_score.png)
 
 ---
 
 ## Limitations
 
 - Dataset is synthetic and limited in diversity  
-- May learn generator-specific artifacts  
+- May learn generator-specific artifacts
+- Disporporational samples from deepfake sources
 - Not guaranteed to generalize to unseen or real-world deepfake audio  
 
 This should be viewed as a **prototype risk detector**, not a production system.
