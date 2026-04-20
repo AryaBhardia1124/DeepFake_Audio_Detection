@@ -22,7 +22,7 @@ The model was fine-tuned on labeled audio data and evaluated using standard clas
 
 ## Dataset
 
-This project uses the **Audio Deepfake Detection Dataset (Kaggle)**.
+This project uses the [Audio Deepfake Detection Dataset](https://www.kaggle.com/datasets/adarshsingh0903/audio-deepfake-detection-dataset)
 
 - ~4,400 audio samples  
 - Balanced real vs synthetic  
